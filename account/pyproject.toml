@@ -10,7 +10,7 @@ python = "^3.11"
 pytest = "^7.2.2"
 
 [tool.poetry.scripts]
-start-tests = 'account.main:up_first'
+start-tests = 'main:last_five_executed_operations'
 
 [build-system]
 requires = ["poetry-core"]
