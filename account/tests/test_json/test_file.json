@@ -1,0 +1,14 @@
+[
+  {"id": 594226721, "state": "EXECUTED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226727, "state": "CANCELED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226722, "state": "EXECUTED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226723, "state": "EXECUTED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226727, "state": "CANCELED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226724, "state": "EXECUTED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226727, "state": "CANCELED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226725, "state": "EXECUTED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226727, "state": "CANCELED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"},
+  {"id": 594226727, "state": "CANCELED",  "date": "2018-09-12T21:27:25.241689", "description": "Перевод организации", "operationAmount": {"amount": "67314.70", "currency": {"name": "руб.", "code": "RUB"}}, "from": "Visa Platinum 1246377376343588", "to": "Счет 14211924144426031657"}
+
+]
+
